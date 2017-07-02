@@ -13,7 +13,7 @@ If you have any question, feel free to ask them and I will do my best to provide
 Nothing in particular is needed, just make sure that you have [Git](https://git-scm.com) and [Xcode](https://developer.apple.com/xcode/) installed. Then make sure to copy the project repository.
 
 ```shell
-git clone https://github.com/gcourtet/Intro-Swift-Poppulo
+git clone https://github.com/gcourtet/Intro-Swift-Poppulo.git
 cd Intro-Swift-Poppulo
 ```
 
@@ -43,14 +43,14 @@ git checkout step-2
 ```
 If you don't care because you're a beast you can just wait for the next step.
 
-## Step 3 : our first app ! (20 minutes)
+## Step 3 : our first app !
 
 We are now going to create our first app. Don't expect it to be a million dollar app. We are going to start slowly in order to make you more comfortable with the Xcode environment, the tools and how they work.
 ```shell
 git checkout step-3
 ```
 
-## Step 4 : now let's have fun (whatever time is left)
+## Step 4 : now let's have fun !!!
 
 Great job lads, you've created your first (basic) iOS app ! Now that you are a little bit more familiar with how things work we are going to go further and build a more complicated app, using the MVC pattern.
 ```shell
